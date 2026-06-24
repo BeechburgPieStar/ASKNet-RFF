@@ -1,5 +1,7 @@
 # ASKNet: Adaptive Spectral Koopman Network for Cross-Domain Radio Frequency Fingerprinting
 
+# Submit to CL
+
 Official PyTorch implementation of the IEEE Communications Letters paper
 **"ASKNet: Adaptive Spectral Koopman Network for Cross-Domain Radio Frequency Fingerprinting."**
 
